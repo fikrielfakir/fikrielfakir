@@ -35,7 +35,7 @@
 ```
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrielfa123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical)
 
 ---
 
