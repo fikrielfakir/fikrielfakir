@@ -71,11 +71,11 @@
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrielfa123&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfa123&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrielfa123&theme=radical&hide_border=true)
 
 </div>
 
@@ -83,13 +83,13 @@
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=fikrielfakir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=fikrielfa123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ## 📈 Activity Graph
 
-[![Fikri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fikrielfakir&theme=redical)](https://github.com/fikrielfakir)
+[![Fikri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fikrielfa123&theme=redical)](https://github.com/fikrielfa123)
 
 ## 📫 Connect With Me
 
@@ -107,7 +107,7 @@
   
   ### 💡 *"Always learning, always building"*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=fikrielfakir&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=fikrielfa123&color=blueviolet&style=flat-square)
   
 </div>
 
