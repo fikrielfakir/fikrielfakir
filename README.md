@@ -108,36 +108,6 @@ Let's connect & bring your vision to reality!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fikrielfakir&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/fikrielfakir" alt="GitHub Contribution Chart" />
-</p>
-
----## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/fikrielfakir/elearning-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=elearning-platform&theme=radical" />
-</a>
-
-<a href="https://github.com/fikrielfakir/school-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=school-management&theme=radical" />
-</a>
-
-<a href="https://github.com/fikrielfakir/hr-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=hr-system&theme=radical" />
-</a>
-
-<a href="https://github.com/fikrielfakir/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=portfolio&theme=radical" />
-</a>
-
-</div>
-
----
-
 ## 🎯 Support Me
 
 <div align="center">
