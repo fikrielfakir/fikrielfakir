@@ -2,32 +2,51 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Morocco+🇲🇦)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Building+Scalable+Applications;Morocco+🇲🇦)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+## 👨‍💻 Full Stack Web Developer | Morocco 🇲🇦
 
-💻 **Full Stack Developer** from Morocco with over **5 years of experience** in web development  
-🎯 Passionate about creating powerful, scalable applications with clean and intuitive UI/UX  
-🌟 Specialized in **SaaS platforms**, **School & HR management systems**, and **Enterprise solutions**
+**Freelance Software Developer | Top Talent**
 
-## 👀 Interests
+*Thanks for visiting my profile!*
 
-- 🌐 Open-source projects
-- 📚 School and HR management systems
-- ⚛️ Modern frontend frameworks (React, Vue)
-- 🔧 Backend development with Node.js, Laravel, and Golang
-- 📱 Mobile development and hybrid apps
+I help businesses and startups build **Web Applications**, **SaaS Products**, and **Management Systems** with **React**, **Vue.js**, **Node.js**, **Laravel** & **Golang**.
 
-## 🌱 Currently Learning
+### TL;DR:
 
-```
-📊 Advanced system design
-⚡ Performance optimization
-🐳 DevOps tools (Docker, CI/CD pipelines)
-☁️ Cloud architecture and scalability
-```
+- 🏆 **5+ years** specializing in full-stack web development
+- 💼 Proven track record building **School Management Systems**, **HR Platforms**, and **E-Learning Solutions**
+- ⭐ Expert in modern JavaScript frameworks and backend technologies
+
+### What I Bring:
+
+- 🚀 **Elevate your team** as a Tech Lead or Senior Engineer
+- 🌍 **Global collaboration experience** in Education, Healthcare, and Enterprise sectors
+- 📱 **Cross-Platform Development** with React, Vue.js, and Hybrid Mobile Apps
+- ☁️ **Expert in integrating** AI, Cloud solutions, and third-party platforms
+- 🎨 **Follow advanced development principles**: Design Patterns, TDD, Clean Architecture
+- 💪 **Experienced in** project management and agile methodologies (Kanban & Scrum)
+- 🤝 **Strong sense of** product ownership, team leading and technical decision making
+- 📊 **Proficient in** MVP launch and product development roadmapping
+- 💡 **Creative and critical thinking** with excellent communication skills
+
+### Let's Build Something Amazing:
+
+- 🏗️ **Architect complex** mobile & frontend apps
+- 🎨 **Crafted pixel-perfect** UIs for exceptional user experiences
+- ⚙️ **Worked with** OpenAI, AWS, Google Services, Clerk, Firebase, Supabase, and more
+- 🔄 **Set up CI/CD pipelines** for seamless deployment (Docker, EAS/Bitrise and more)
+- ✅ **Committed to top-notch quality**: Modular, scalable, clean, and well-tested code
+
+### Thinking of a project? 🤔
+
+Let's connect & bring your vision to reality!
+
+📧 **[Email Me](mailto:elfakirfikri@gmail.com)** | 🔗 **[More Links](#-connect-with-me)**
+
+---
 
 ## 💼 Tech Stack
 
@@ -80,6 +99,57 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fikrielfakir&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E9EF7/fikrielfakir" alt="GitHub Contribution Chart" />
+</p>
+
+---## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/fikrielfakir/elearning-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=elearning-platform&theme=radical" />
+</a>
+
+<a href="https://github.com/fikrielfakir/school-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=school-management&theme=radical" />
+</a>
+
+<a href="https://github.com/fikrielfakir/hr-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=hr-system&theme=radical" />
+</a>
+
+<a href="https://github.com/fikrielfakir/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fikrielfakir&repo=portfolio&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Support Me
+
+<div align="center">
+
+If you find my work valuable, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fikrielfakir)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fikrielfakir)
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
