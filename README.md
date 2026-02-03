@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Morocco+🇲🇦)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,13 +70,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -112,6 +111,6 @@
 </div>
 
 <!---
-fikrielfakir/fikrielfakir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fikrielfa123/fikrielfa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
