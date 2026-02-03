@@ -69,53 +69,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Fikri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=radical" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=tokyonight&hide_border=false)
-
-</div>
-
-### 📈 Contribution Graph
-
-![Fikri's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fikrielfakir&theme=tokyo-night&hide_border=false&area=true)
-
-### 🏅 Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fikrielfakir&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fikrielfakir&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fikrielfakir&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fikrielfakir&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fikrielfakir&theme=tokyonight)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=fikrielfakir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-## 📈 Activity Graph
-
-[![Fikri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fikrielfakir&theme=redical)](https://github.com/fikrielfakir)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 📫 Connect With Me
 
