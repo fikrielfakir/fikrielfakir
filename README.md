@@ -86,21 +86,6 @@ Let's connect & bring your vision to reality!
 - 🤖 Automation and productivity tools
 - 🌍 Impactful open-source projects
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrielfakir&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrielfakir&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrielfakir&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
